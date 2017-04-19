@@ -1,6 +1,6 @@
 # npmtest-yargs
 
-#### test coverage for  [yargs (v7.1.0)](http://yargs.js.org/)  [![npm package](https://img.shields.io/npm/v/npmtest-yargs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yargs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yargs.svg)](https://travis-ci.org/npmtest/node-npmtest-yargs)
+#### basic test coverage for  [yargs (v7.1.0)](http://yargs.js.org/)  [![npm package](https://img.shields.io/npm/v/npmtest-yargs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yargs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yargs.svg)](https://travis-ci.org/npmtest/node-npmtest-yargs)
 
 #### yargs the modern, pirate-themed, successor to optimist.
 
